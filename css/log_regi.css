@@ -1,0 +1,16 @@
+body{
+    background-image: url(./earth-g19c3d3f89_1920.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+.registration{
+    width: 600px;
+    margin-left: 350px;
+    background-color: #3d5972ad;
+    padding: 50px;
+    margin-top: 50px;
+}
+.registration input{
+    background-color: rgba(255, 255, 255, 0.514);
+}
